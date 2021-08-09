@@ -1,5 +1,23 @@
 * {
-    font-family: 'Avenir.otf', sans-serif;
+    font-family: "Avenir.otf", sans-serif;
     display: block;
     font-size: 35px;
+}
+body {
+    width: 100vw;
+    height: 80vh;
+}
+.link {
+    text-align: center;
+}
+.description {
+    text-align: center;
+}
+.section {
+    display: inline-block;
+    width: 32%;
+    height: 80vh;
+}
+title {
+    text-align: center;
 }
